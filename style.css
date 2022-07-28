@@ -109,7 +109,7 @@ img {
 #home {
     padding-right: 0;
     height: 100vh;
-    background: url('../images/bg.jpg');
+    background: url('./images/bg.jpg');
     position: relative;
     z-index: 1;
 }
